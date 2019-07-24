@@ -3,3 +3,39 @@
 ---
 
 @import "minima";
+
+// https://www.cvwdesign.com/blog/post.php?s=css3-box-shadow-and-image-hover-effects
+.dropshadowclass {
+        border: solid 1px #CCC;
+    -moz-box-shadow: 5px 5px 0px #999;
+    -webkit-box-shadow: 5px 5px 0px #999;
+        box-shadow: 5px 5px 0px #999;
+        }
+
+// Edited
+.dropshadowclass-min {
+  -moz-box-shadow: 3px 3px 0px #999;
+  -webkit-box-shadow: 3px 3px 0px #999;
+  box-shadow: 3px 3px 0px #999;
+}
+
+// Bootstrap
+// https://getbootstrap.com/
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.figure {
+  // Ensures the caption's text aligns with the image.
+  display: inline-block;
+}
+
+.figure-img {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.rounded {
+  border-radius: 0.25rem !important;
+}
