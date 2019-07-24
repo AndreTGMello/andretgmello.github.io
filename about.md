@@ -2,9 +2,15 @@
 layout: page
 title: About me
 permalink: /about/
+lang: en
 lang-ref: about
 ---
-{% avatar atgmello size=170 %}
+{% include figure.html
+           image="http://www.gravatar.com/avatar/f595c1b358d1be489d49b93c54af99a9?s=200"
+           class="figure-img img-fluid rounded dropshadowclass-min"
+           alt-text="Hello there."
+           caption=""
+%}
 
 ## Location
 
@@ -14,7 +20,7 @@ São Paulo, Brazil
 
 Instituto de Matemática e Estatística, Universidade de São Paulo.
 
-My [Lattes CV]( http://lattes.cnpq.br/1005222224619536).
+My [Lattes CV](http://lattes.cnpq.br/1005222224619536).
 
 ## Interests
 
