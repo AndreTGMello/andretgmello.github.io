@@ -1,13 +1,22 @@
 <footer class="site-footer h-card">
 
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  {%- if page.lang == "pt" -%}
+    <data class="u-url" href="{{ "/pt/" | relative_url }}"></data>
+  {%- elsif page.lang == "en" -%}
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  {%- endif -%}
 
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
 
       <div class="footer-col footer-col-1">
+        {%- if page.lang == "pt" -%}
+        <h2 class="footer-heading"><a href="/pt/">{{ site.title | escape }}</a></h2>
+        {%- elsif page.lang == "en" -%}
         <h2 class="footer-heading"><a href="/">{{ site.title | escape }}</a></h2>
+        {%- endif -%}
+
           <ul class="contact-list">
             <li class="p-name">
               {%- if site.author -%}
