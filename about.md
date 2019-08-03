@@ -12,27 +12,17 @@ lang-ref: about
            caption=""
 %}
 
-## Location
+Hi! My name is André Mello and research and coding are my passion!
 
-São Paulo, Brazil
+I'm located in [São Paulo](https://www.theguardian.com/travel/2017/feb/10/sao-paulo-brazil-crime-writer-joe-thomas), Brazil.
 
-## Academics
+I consider myself a generalist, although I've leaned on Artificial Intelligence areas for the most of my academic years. I got my bachelor's degree in Information Systems at the [University of São Paulo](https://www5.usp.br/), more specifically at the [School of Arts, Sciences and Humanities](http://www5.each.usp.br/). I'm currently pursuing my master's degree in Computer Science at USP's Institute of Mathematics and Statistics.
+This is my academic CV: [Lattes CV](http://lattes.cnpq.br/1005222224619536).
 
-Instituto de Matemática e Estatística, Universidade de São Paulo.
-
-My [Lattes CV](http://lattes.cnpq.br/1005222224619536).
-
-## Interests
-
-- Artificial Inteligence and Machine Learning
+My main interests are
+- Artificial Intelligence and Machine Learning
 - Research Software Engineering
 - Free/Libre Open Source Software
-
-## Development
-
-- Working experience with Julia, Python, Java, some C and Fortran
-- However, I'm way into the Julia language (it's really awesome, you should check it out!)
-- Working towards contributing to the FLOSS comunity somehow
 
 ## Projects
 
