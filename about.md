@@ -16,7 +16,7 @@ Hi, I'm André Mello and research and coding are my passions!
 
 I'm located in [São Paulo](https://www.theguardian.com/travel/2017/feb/10/sao-paulo-brazil-crime-writer-joe-thomas), [Brazil](https://images7.memedroid.com/images/UPLOADED836/5a62a624e434d.jpeg).
 
-Keep reading more about me in [english](http://localhost:4000/en/about/) or [portuguese](http://localhost:4000/pt/about/).
+Keep reading more about me in [english](http://atgmello.github.io/en/about/) or [portuguese](http://atgmello.github.io/pt/about/).
 
 
 ---
