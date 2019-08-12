@@ -8,10 +8,12 @@
     {%- if page.lang == "pt" -%}
       <a class="site-title" rel="author" href="{{ "/pt/" | relative_url }}">{{ site.title | escape }}</a>
     {%- elsif page.lang == "en" -%}
+      <a class="site-title" rel="author" href="{{ "/en/" | relative_url }}">{{ site.title | escape }}</a>
+    {%- elsif page.lang == "pt-en" -%}
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- endif -%}
-    
-    <a href="/">
+
+    <a href="/en/">
       {{ site.data.languages["en"].icon }}
     </a>
     <a href="/pt/">

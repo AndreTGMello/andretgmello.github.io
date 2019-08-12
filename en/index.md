@@ -4,5 +4,5 @@
 
 layout: home
 lang-ref: home
-lang: pt-en
+lang: en
 ---
