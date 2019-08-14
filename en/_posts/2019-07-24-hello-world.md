@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2019-07-24 14:30:00 -0300
-categories: first post
+categories:
 lang: en
 lang-ref: first-post
 ---
