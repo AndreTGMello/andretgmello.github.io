@@ -26,11 +26,11 @@ As you can see in the picture above, the event was attended by leading internati
 
 I plan on writing about what I've learned over these two full weeks of content in the future. But that is not the focus of this post. For now, I want talk a little about my experience as a volunteer in organizing and attending this event.
 
-First of all, I want to make it clear that much had already been organized by several professors and staff members of the institute. The full list of event organizers is [here](https://sites.usp.br/datascience/spsas-learning-from-data/organization/), but I can't help but mention the great work of the teachers [Jef](https://www.ime.usp.br/jef), [Luciano Araújo](http://www.iea.usp.br/pessoas/pasta-pessoal/luciano-vieira-de-araujo) and [Fátima Nunes](http://lapis.each.usp.br/en/member/fatima-ls-nunes/) throughout the event.
+First of all, I want to make it clear that much had already been organized by several professors and staff members of the institute. The full list of event organizers is [here](https://sites.usp.br/datascience/spsas-learning-from-data/organization/), but I can't help but mention the great work of the teachers [Jef](https://www.ime.usp.br/jef), [Luciano Araújo](http://www.iea.usp.br/pessoas/pasta-pessoal/luciano-vieira-de-araujo) and [Fátima Nunes](http://lapis.each.usp.br/en/member/fatima-ls-nunes/) throughout the event. I'd also like to thank deeply my supervisor and director of IME, professor [Junior Barrera](http://www.vision.ime.usp.br/~jb/), for informing me about the SPSAS and encouraging me to enroll in the school.
 
 The volunteer students who participated in the organization of the event, in turn, focused on different specific issues. Some were responsible for helping with the finance, such as organizing the refunds for the fellows, others helped with driving and transportation of foreign speakers and attendees. As for me, I applied for putting together the [One Minute Lightning Talks](https://sites.usp.br/datascience/spsas-learning-from-data/program/#oneminute).
 
-Firstly, _Lightning Talk_ is a great understatement. Elsewhere they call this kind of presentation _Poster Blitz_ or _Poster Madness_. And in fact, organizing this part of the event was indeed chaotic. But in the end all went well, since I was not alone in this task. More than that, I had the help of an amazing group. Without the hard work of the colleagues [Hamed](https://twitter.com/SciFi_startup) and [Décio](mailto: deciolauro@usp.br) [Soares](https://orcid.org/0000-0003-3200 -878X), we certainly would not have achieved the success we had, praised by participants and professors alike. I leave here my heartfelt thanks to both of them for all the effort, hard work and commitment. Both are exceptional people, no doubt.
+First, I have to mention that _Lightning Talk_ is a great understatement, so to speak. Elsewhere they call this kind of presentation _Poster Blitz_ or _Poster Madness_. And in fact, organizing this part of the event was indeed very chaotic. But in the end all went well, since I was not alone in this task. More than that, I had the help of an amazing group. Without the hard work of the colleagues [Hamed](https://twitter.com/SciFi_startup) and [Décio](mailto: deciolauro@usp.br) [Soares](https://orcid.org/0000-0003-3200 -878X), we certainly would not have achieved the success we had, praised by participants and professors alike. I leave here my heartfelt thanks to both of them for all the effort, hard work and commitment. Both are exceptional people, no doubt.
 
 Also, I couldn't help but mention it: keep an eye on Hamed's project [Leitnerapp](https://leitnerapp.com/), designed for learning new languages! It has a very interesting take on the matter, it is worth checking it out and contacting him if you are interested.
 
@@ -87,7 +87,7 @@ During my activities I met [Renan Vinicius](http://instagram.com/renanvinicius).
     caption = "Thank you so much for the photo and the chat Renan!"
 %}
 
-Speaking of photos, I had a great surprise when [Yuri](https://www.linkedin.com/in/udvsinghal/) decided to take the following picture with me.
+Speaking of photos, I had a great surprise when [Udbhav "Yudi" Singhal](https://www.linkedin.com/in/udvsinghal/) decided to take the following picture with me.
 
 {% include figure.html
     image = "/assets/img/spsas2019/brigadeiros.jpg"
@@ -100,7 +100,36 @@ We were talking about differences in Indian and Brazilian cuisine when he mentio
 
 Once I got home I tried these cookies and they were delicious. I needed to return this simple gesture that marked me by its spontaneity. So the next day I brought him some Brazilian sweets as well, called brigadeiros. He was so happy with the surprise that he made sure to ask Renan for a picture. Giving his words of gratitude back to him: 🙏 [namaste](https://en.wikipedia.org/wiki/Namaste)!
 
-At the end of the event, the group that helped organizing the cultural events (also known as DigiDestined or Fantinha [kinda long inside joke]) decided to meet again, now to celebrate the success of the activities! With a lot of [vegan pizza](https://kadalora.com.br/), laughter and [absurd but real stories (according to experts)](https://www.recordholders.org/en/records/kiss.html).
+{% include figure.html
+    image = "/assets/img/spsas2019/churrascaria.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Churras."
+    caption = "Two tables full of incredible people!"
+%}
+
+During the second week of the event, we had a [fancy dinner](https://churrascariaponteio.com.br) at a [churrascaria](https://en.wikipedia.org/wiki/Churrascaria), with a special discount given by the school. Everyone had a blast, even Yudi, who's vegetarian!
+
+{% include figure.html
+    image = "/assets/img/spsas2019/churras_group.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Churras."
+    caption = "From left to right: Martin, Diego, William, Me, Erika, Alejandro and Luis."
+%}
+
+[William Suzuki](https://www.linkedin.com/in/william-suzuki-8b3b56164/) is also another incredible person I had the pleasure to meet during the event. Extroverted and cheerful, he was always making sure everyone felt included in the conversations, never leaving anyone behind. Always polite and high spirited, I had the opportunity to talk to him during some of the event's coffee breaks.
+
+Going back home, I shared an Uber with [Diego Andrés](https://www.linkedin.com/in/diego-andres-mendez/) since we found out that day that we actually leave somewhat nerby. We had some great exchanges in the car, Diego is a very nice person as well. Unfortunately couldn't talk much to [Martin Palazzo](https://www.linkedin.com/in/martinepalazzo/) or [Alejandro de Jongh](https://www.linkedin.com/in/martinepalazzo/), but both seemed like great people too, with very interesting research backgrounds.
+
+{% include figure.html
+    image = "/assets/img/spsas2019/participants.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Participants."
+    caption = "From left to right: Me, Yudi, Hamed, Rafael, Renan and Muhammad."
+%}
+
+This picture was taken on the last day of the event. Here I'm joined by [Rafael Testa](https://www.linkedin.com/in/rafaelluiztesta/), another student from my undergrad that I hadn't met during my years at EACH, and [Muhammad](https://www.facebook.com/muhammad.ayaz.3572846) [Ayaz](mailto:mohd.ayazkn@gmail.com), a kind professor from Saudi Arabia who loved our cultural trips to Ibirapuera and the Paulista.
+
+Speaking of cultural trips, by the end of the event the group that helped organizing these cultural activities (also known as the DigiDestined group or Fantinha [kinda long inside joke]) decided to meet again, now to celebrate the success of the activities! With a lot of [vegan pizza](https://kadalora.com.br/), laughter and [absurd but real stories (according to experts)](https://www.recordholders.org/en/records/kiss.html).
 
 {% include figure.html
     image = "/assets/img/spsas2019/pizzas.jpg"
@@ -109,7 +138,7 @@ At the end of the event, the group that helped organizing the cultural events (a
     caption = "From left to right, bottom to top: DJ, Suzana, Ze, Erika, Gustavo, Hamed, Diogo and Me."
 %}
 
-If you have read this far, you must've already realized that the point of this post is not to talk about the high quality lectures and workshops from SPSAS; it's not about the daunting task of organizing Lightning Talks; it doesn't even have any guide or relevant technical information at all. The main point of this post, if it isn't clear yet, are the people.
+Well, if you have read this far, you must've already realized that the point of this post is not to talk about the high quality lectures and workshops from SPSAS; it's not about the daunting task of organizing Lightning Talks; it doesn't even have any guide or relevant technical information at all. The main point of this post, if it isn't clear yet, are the people.
 
 During these two weeks I was able to meet people from different corners of Brazil and the world. I wish I had more time to interact with them and my shy nature doesn't help me much either. But still, I had the opportunity to meet amazing people, who's had great achievements, and are out there doing amazing things to this day.
 
@@ -118,3 +147,5 @@ Participating and helping organize SPSAS brought me this unique opportunity. I c
 I wish I had realized this sooner. Or rather, I wish someone had given me that advice sooner but through some vivid account, something that inspired me to participate and even help in organizing this kind of event. So I write this text thinking about my past self and all the other people who are in a place similar to where I was. "Networking" is not a word that can truly describe all of this. You just gotta be there.
 
 So that's been my experience and this is my advice. Go to events that interest you ([you can go for free to several ones nowadays](https://www.meetup.com/)), get all the information, take notes and make questions. But don't forget that, just as important as gaining any technical knowledge, you should also enjoy the connections you can make with all the amazing people around you.
+
+<sup><sup>Last modified at Aug 16, 2019.</sup></sup>

@@ -26,7 +26,7 @@ Como pode ver na foto acima, o evento contou com a presença de nomes internacio
 
 Pretendo futuramente escrever sobre o que aprendi ao longo dessas duas semanas cheias de conteúdo. Mas esse não é o foco dessa postagem. Por ora, vou falar um pouco sobre a minha experiência como voluntário na organização desse evento.
 
-Antes de mais nada, queiro deixar claro que grande parte da organização já havia sido conduzida por diversos professores e funcionários do instituto. A lista completa dos organizadores do evento está [aqui](https://sites.usp.br/datascience/spsas-learning-from-data/organization/), mas não posso deixar de mencionar o grande trabalho dos professores [Jef](https://www.ime.usp.br/jef), [Luciano Araújo](http://www.iea.usp.br/pessoas/pasta-pessoal/luciano-vieira-de-araujo) e [Fátima Nunes](http://lapis.each.usp.br/pt/member/fatima-l-s-nunes/) ao longo do evento.
+Antes de mais nada, queiro deixar claro que grande parte da organização já havia sido conduzida por diversos professores e funcionários do instituto. A lista completa dos organizadores do evento está [aqui](https://sites.usp.br/datascience/spsas-learning-from-data/organization/), mas não posso deixar de mencionar o grande trabalho dos professores [Jef](https://www.ime.usp.br/jef), [Luciano Araújo](http://www.iea.usp.br/pessoas/pasta-pessoal/luciano-vieira-de-araujo) e [Fátima Nunes](http://lapis.each.usp.br/pt/member/fatima-l-s-nunes/) ao longo do evento. Também gostaria de agradecer imensamente ao meu orientador e Diretor do IME, professor [Junior Barrera](http://www.vision.ime.usp.br/~jb/), por ter me comunicado sobre a SPSAS e me incentivado a participar.
 
 Os alunos voluntários que participaram da organização do evento, por sua vez, atuaram pontualmente em algumas frentes. Alguns ficaram responsáveis por ajudar com questões financeiras, como o reembolso dos _fellows_, outros ajudaram com a condução e transporte dos palestrantes e participantes estrangeiros. Já eu, me candidatei para a organização das [One Minute Lightning Talks](https://sites.usp.br/datascience/spsas-learning-from-data/program/#oneminute).
 
@@ -87,7 +87,7 @@ Nisso eu conheci o [Renan Vinicius](http://instagram.com/renanvinicius). Foi meu
            caption="Muito obrigado pela foto e pelo papo Renan!"
 %}
 
-Falando em fotos, minha surpresa foi grande quando [Yuri](https://www.linkedin.com/in/udvsinghal/) decidiu tirar a seguinte foto comigo.
+Falando em fotos, minha surpresa foi grande quando [Udbhav "Yudi" Singhal](https://www.linkedin.com/in/udvsinghal/) decidiu tirar a seguinte foto comigo.
 
 {% include figure.html
            image="/assets/img/spsas2019/brigadeiros.jpg"
@@ -100,7 +100,36 @@ Estávamos conversando sobre as diferenças na culinária indiana e brasileira q
 
 Chegando em casa experimentei as ditas bolachas e as achei sensacionais. Precisava retribuir esse gesto simples que me marcou pela espontaneidade. Então, levei no dia seguinte um outro doce para ele, tipicamente brasileiro: brigadeiros. Não preciso dizer que ele ficou muito feliz com a surpresa, fez questão de pedir uma foto para o Renan. Retribuo aqui também suas palavras de gratidão: 🙏 [namastê](https://pt.wikipedia.org/wiki/Namast%C3%AA)!
 
-Ao fim do evento, o grupo que ajudou a organizar os eventos culturais (também conhecido como DigiEscolhidos ou então Fantinha) decidiu se reunir mais uma vez, agora para comemorar o sucesso das atividades! Com direito a muita [pizza vegana](https://kadalora.com.br/), risadas e [causos absurdos, mas reais (afirmam especialistas)](https://www.recordholders.org/en/records/kiss.html).
+{% include figure.html
+    image = "/assets/img/spsas2019/churrascaria.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Churras."
+    caption = "Mesas cheias de comida e pessoas incríveis!"
+%}
+
+Na segunda semana de evento tivemos um [jantar chique](https://churrascariaponteio.com.br) em uma [churrascaria](https://en.wikipedia.org/wiki/Churrascaria), com um desconto especial dado pela escola. Todos se divertiram bastante, até mesmo o Yudi, que é vegetariano!
+
+{% include figure.html
+    image = "/assets/img/spsas2019/churras_group.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Churras."
+    caption = "Da esquerda para a direita: Martin, Diego, William, Me, Erika, Alejandro and Luis."
+%}
+
+[William Suzuki](https://www.linkedin.com/in/william-suzuki-8b3b56164/) foi outra pessoa incrível que tive o prazer de conhecer durante o evento. Extrovertido e animado, estava sempre trazendo mais pessoas para as conversas e dando atenção a todos, para que ninguém se sentisse de fora. Sempre muito educado e divertido, pude conversar com ele em algumas oportunidades durante os _coffee breaks_.
+
+Para voltar para casa acabei dividindo um Uber com o [Diego Andrés](https://www.linkedin.com/in/diego-andres-mendez/), já que, por sorte, descobrimos que moramos relativamente perto. Fomos conversando ao longo do caminho, Diego é uma ótima pessoa também. Infelizmente, não pude conversar muito com o [Martin Palazzo](https://www.linkedin.com/in/martinepalazzo/) ou o [Alejandro de Jongh](https://www.linkedin.com/in/martinepalazzo/), mas ambos pareciam boas pessoas, com um histórico de pesquisa muito interessante.
+
+{% include figure.html
+    image = "/assets/img/spsas2019/participants.jpg"
+    class = "figure-img img-fluid dropshadowclass-min"
+    alt-text = "Participants."
+    caption = "Da esquerda para a direita: Eu, Yudi, Hamed, Rafael, Renan e Muhammad."
+%}
+
+Já essa foto foi tirada no último dia do evento. Aqui estou acompanhado também do [Rafael Testa](https://www.linkedin.com/in/rafaelluiztesta/), mais um veterano meu da faculdade que não cheguei a conhecer na época em que estava na EACH, e [Muhammad](https://www.facebook.com/muhammad.ayaz.3572846) [Ayaz](mailto:mohd.ayazkn@gmail.com), um professor da Arábia Saudita que adorou os passeios culturais para o Ibirapuera e a Paulista.
+
+E falando em passeio culturais, ao fim do evento o grupo que ajudou a organizar essas atividades (também conhecido como grupo dos DigiEscolhidos ou então Fantinha [uma piada interna longa]) decidiu se reunir mais uma vez, agora para comemorar o sucesso das atividades! Com direito a muita [pizza vegana](https://kadalora.com.br/), risadas e [causos absurdos, mas reais (afirmam especialistas)](https://www.recordholders.org/en/records/kiss.html).
 
 {% include figure.html
            image="/assets/img/spsas2019/pizzas.jpg"
@@ -109,7 +138,7 @@ Ao fim do evento, o grupo que ajudou a organizar os eventos culturais (também c
            caption="Da esquerda para a direita, de baixo para cima: DJ, Suzana, Zé, Erika, Gustavo, Hamed, Diogo e Eu."
 %}
 
-Se você leu até aqui, já se tocou que o ponto dessa postagem não é falar sobre as palestras e workshops de alta qualidade que tiveram do SPSAS; não é sobre o processo árduo de se organizar uma Lightning Talk; não contém qualquer tipo de guia ou informação técnica relevante. O ponto principal dessa postagem, caso não tenha ficado claro ainda, são as pessoas.
+Bem, se você leu até aqui, já se tocou que o ponto dessa postagem não é falar sobre as palestras e workshops de alta qualidade que tiveram do SPSAS; não é sobre o processo árduo de se organizar uma Lightning Talk; não contém qualquer tipo de guia ou informação técnica relevante. O ponto principal dessa postagem, caso não tenha ficado claro ainda, são as pessoas.
 
 Ao longo dessas duas semanas pude conhecer gente de diversos cantos do brasil e do mundo. Gostaria de ter tido mais tempo para interagir mais com elas, e minha natureza tímida também não me ajuda muito. Mas, de todo modo, tive a oportunidade de conhecer pessoas sensacionais, com um histórico louváveis e que estão por aí fazendo coisas incríveis.
 
@@ -118,3 +147,5 @@ Participar e ajudar a organizar o SPSAS trouxe essa oportunidade única para mim
 Gostaria de ter percebido isso antes. Ou então, gostaria que alguém tivesse me dado esse toque antes, mas através de um relato vívido, algo que me inspirasse a participar e até mesmo a ajudar na organização desse tipo de evento. Faço esse texto, então, para o meu eu do passado e para todas as pessoas que se encontram em um lugar parecido com o que eu estava. "Networking" não é uma palavra que pode descrever tudo isso. Você precisa estar lá.
 
 Então essa foi a minha experiência e essa é o meu toque. Vá para eventos que te interessem ([há diversos gratuitos hoje em dia](https://www.meetup.com/pt-BR/)), absorva as informações, faça anotações e perguntas. Mas, tão importante quanto adquirir qualquer conhecimento técnico, não se esqueça de aproveitar também as conexões que pode fazer com as pessoas incríveis que estão a sua volta.
+
+<sup><sup>Última modificação em 16 de Agosto, 2019.</sup></sup>
