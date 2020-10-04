@@ -110,7 +110,8 @@ Você pode encontrar essas e outras implementações interessantes no repositór
 Envie a sua também! :)
 
 PS: Os créditos para a piadinha no começo do texto vai para
-[@hlissner](https://github.com/hlissner). Veja sua distribuição de Emacs, o
-[Doom Emacs](https://github.com/hlissner/doom-emacs). Tenho usado por alguns
-meses e recomendo fortemente!
+[@hlissner](https://github.com/hlissner). Aliás, se você usa (ou está pensando
+em usar) Emacs, dê uma olhada na sua distribuição de Emacs, o [Doom
+Emacs](https://github.com/hlissner/doom-emacs). Tenho a usado por algum tempo e
+recomendo fortemente!
 

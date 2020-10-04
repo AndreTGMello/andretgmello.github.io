@@ -110,7 +110,8 @@ You can check these and other crazy FizzBuzz implementations over at:
 Submit yours as well! :)
 
 PS: The credits for the joke in the first paragraph goes to
-[@hlissner](https://github.com/hlissner). Check out his Emacs distribution,
-[Doom Emacs](https://github.com/hlissner/doom-emacs). I've been using for quite
-some time now and I highly recommend it!
+[@hlissner](https://github.com/hlissner). Btw, if you use Emacs (or plan on
+doing so), you should totally check out his Emacs distribution, [Doom
+Emacs](https://github.com/hlissner/doom-emacs). I've been using for quite some
+time now and I highly recommend it!
 
