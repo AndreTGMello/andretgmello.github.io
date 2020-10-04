@@ -100,7 +100,7 @@ Doesn't mean you should always do it, though.
 
 You can check these and other crazy FizzBuzz implementations over at:
 
-https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz
+[](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz)
 
 Submit yours as well! :)
 
