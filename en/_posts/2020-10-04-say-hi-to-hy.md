@@ -9,13 +9,17 @@ lang-ref: say-hi-to-hy
 
 Ever wanted the speed of Python plus the readability of Lisp/Clojure?
 
-Look no further! I present to you the Hy language.
+If you said Yes, well, look no further! I present to you the
+[Hy](https://docs.hylang.org/en/stable/) language.
 
-Hy is a Lisp dialect that translates itself into the Python Abstract Syntax Tree.
+Hy is a Lisp dialect that translates itself into the Python Abstract Syntax
+Tree.
 
-Pretty cool huh? Soon enough I should come up with a simple notebooks for exploring what this language has to offer.
+Pretty cool huh? Soon enough I should come up with a simple Jupyter Notebook for
+exploring what this language has to offer.
 
-For now, I'll leave you with the classic FizzBuzz exercise, so you can get a sense of what the language looks like first.
+For now, I'll leave you with the classic FizzBuzz exercise, so you can get a
+sense of what the language looks like first.
 
 Oh but there's a twist. I implemented it in two "unusual" ways.
 
@@ -68,9 +72,10 @@ In the first one I went for a "Divide and Conquer" (sort of) approach.
 (fizz-buzz 100)
 ```
 
-The second one is a type annotated, parallel code. And it's actually a lot cleaner than the first one.
-This goes to show how parallelizing embarrassingly parallel code is trivial using some functional programming concepts.
-Doesn't mean you should always do it, though.
+The second one is a type annotated, parallel code. And it's actually a lot
+cleaner than the first one. This goes to show how parallelizing embarrassingly
+parallel code is trivial using some functional programming concepts. Doesn't
+mean you should always do it, though.
 
 ```hy
 ;; Type annotated, parallel implementation of the fizzbuzz problem.
@@ -104,6 +109,8 @@ You can check these and other crazy FizzBuzz implementations over at:
 
 Submit yours as well! :)
 
-PS: The credits for the pun in the first paragraph goes to [@hlissner](https://github.com/hlissner).
-Check out his Emacs distribution, [Doom Emacs](https://github.com/hlissner/doom-emacs). I highly recommend it!
+PS: The credits for the joke in the first paragraph goes to
+[@hlissner](https://github.com/hlissner). Check out his Emacs distribution,
+[Doom Emacs](https://github.com/hlissner/doom-emacs). I've been using for quite
+some time now and I highly recommend it!
 
