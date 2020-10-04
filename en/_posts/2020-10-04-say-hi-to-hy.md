@@ -27,7 +27,7 @@ In the first one I went for a "Divide and Conquer" (sort of) approach.
 
 ```hy
 ;; The only way to tackle such a complex problem: Divide and Conquer (sort of).
-;; You can call fizzbuzz with dbug = True if it helps you grasp the solution.
+;; You can call fizzbuzz with debug = True if it helps you grasp the solution.
 ;; Author: @atgmello
 
 (require [hy.contrib.walk [let]])
