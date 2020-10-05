@@ -103,7 +103,7 @@ mean you should always do it, though.
 (fizzbuzz 100)
 ```
 
-You can check these and other crazy FizzBuzz implementations over at:
+You can check these and other crazy FizzBuzz solutions over at:
 
 [](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz)
 
