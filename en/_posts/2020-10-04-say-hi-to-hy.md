@@ -2,7 +2,7 @@
 layout: post
 title:  "Say Hi to Hy!"
 date:   2020-10-04 18:00:00 -0300
-categories: lisp,hy
+categories: hy
 lang: en
 lang-ref: say-hi-to-hy
 ---
